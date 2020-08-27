@@ -1,0 +1,13 @@
+.course-container{
+    display:flex;
+}
+
+.all-course{
+    width: 70%;
+}
+.course-cart{
+    text-align: left;
+    padding-left:80px;
+    border-left: 1px solid rgb(134, 133, 133);
+}
+

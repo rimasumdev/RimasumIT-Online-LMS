@@ -1,0 +1,11 @@
+.header-summary{
+    background-color: rgb(75, 186, 238);
+    color:white;
+    padding:20px;
+    height: 230px;
+    border-radius:5px;
+    width:250px;
+}
+.orderBtn{
+    height: 50px;
+}
